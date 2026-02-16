@@ -123,6 +123,3 @@ This analysis demonstrates how data can support:
 - Perform price prediction using machine learning
 
 
-
-## 📂 Project Structure
-
